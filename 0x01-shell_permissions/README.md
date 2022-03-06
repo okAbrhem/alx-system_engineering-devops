@@ -1,1 +1,1 @@
-this readme describes about shell permissions
+This readme explains shell permission scripts
